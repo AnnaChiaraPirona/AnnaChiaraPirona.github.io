@@ -6,8 +6,8 @@ welcome to my website!
 ## my basics :)
 
 - postodctoral researcher
-  <img src="researcher.jpg" alt="Image 1" style="max-width: 100px; max-height: 50px;">
-  ![postdoc](researcher.jpg)
+  <img src="researcher.jpg" alt="Image 1" style="max-width: 20px; max-height: 20px;">
+
 - surfer
    ![surfing](surfer.jpg)
 - singer
