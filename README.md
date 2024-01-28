@@ -13,7 +13,7 @@ Welcome to my website!
 ## it might seem that I'm like this at times...
 
 
-![Image 1](angry_trex.jpg)
+![Image 1](angry_trex.JPG)
 
 ## but I am actually protecting this :)
 
