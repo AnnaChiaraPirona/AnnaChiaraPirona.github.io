@@ -33,7 +33,7 @@ welcome to my website!
   </div>
 
   <div style="flex: 1;">
-    <img src="hiker.jpg" alt="Image 5" style="width: 250px; height: auto;">
+    <img src="hiker.jpg" alt="Image 5" style="width: 300px; height: auto;">
     <p>- hiking</p>
   </div>
 
@@ -47,7 +47,6 @@ welcome to my website!
 
 ## but I am actually protecting this :)
 
-![Image 2](cute_trex.jpg)
 <div style="border: 2px solid #ADD8E6; padding: 10px; display: inline-block;">
   <img src="cute_trex.jpg" alt="Framed Image" style="width: 100%; height: auto;">
 </div>
