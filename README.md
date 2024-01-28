@@ -1,12 +1,12 @@
 
 # Anny Randy
-<div style="background-color: #ffd700; height: 100px; margin-bottom: 20px;"></div>
+<div style="background-color: #ffd700; height: 400px; margin-bottom: 20px;"></div>
 welcome to my website!  
 
 ## my basics :)
 
 - postodctoral researcher
- <img src="researcher.jpg" alt="Image 1" style="width: 10px; height: auto;">
+ <img src="researcher.jpg" alt="Image 1" style="width: 100px; height: auto;">
 
 
 - surfer
