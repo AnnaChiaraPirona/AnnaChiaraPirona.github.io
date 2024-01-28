@@ -13,7 +13,7 @@ welcome to my website!
   </div>
 
   <div style="flex: 1;">
-    <img src="surfer.jpg" alt="Image 2" style="width: 200px; height: auto;">
+    <img src="surfer.jpg" alt="Image 2" style="width: 250px; height: auto;">
     <p>- surfer</p>
   </div>
 
@@ -25,24 +25,19 @@ welcome to my website!
 </div>
 
 
-- postodctoral researcher
-<img src="researcher.jpg" alt="Image 1" style="width: 150px; height: auto;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; text-align: center;">
 
+  <div style="flex: 1;">
+    <img src="80s_lover.jpg" alt="Image 4" style="width: 150px; height: auto;">
+    <p>- 80s</p>
+  </div>
 
-- surfer
-<img src="surfer.jpg" alt="Image 2" style="width: 200px; height: auto;">
+  <div style="flex: 1;">
+    <img src="hiker.jpg" alt="Image 5" style="width: 250px; height: auto;">
+    <p>- hiking</p>
+  </div>
 
- 
-- singer
- <img src="singer.jpg" alt="Image 3" style="width: 150px; height: auto;">
-
-
-- 80s lover
-<img src="80s_lover.jpg" alt="Image 4" style="width: 150px; height: auto;">
-
-
-- hiker
-<img src="hiker.jpg" alt="Image 5" style="width: 250px; height: auto;">
+</div>
 
 
 ## it might seem that I'm like this at times...
