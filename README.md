@@ -9,17 +9,17 @@ welcome to my website!
 
   <div style="flex: 1;">
     <img src="researcher.jpg" alt="Image 1" style="width: 150px; height: auto;">
-    <p>-researcher</p>
+    <p>- researcher</p>
   </div>
 
   <div style="flex: 1;">
     <img src="surfer.jpg" alt="Image 2" style="width: 200px; height: auto;">
-    <p>-surfer</p>
+    <p>- surfer</p>
   </div>
 
    <div style="flex: 1;">
     <img src="singer.jpg" alt="Image 3" style="width: 200px; height: auto;">
-    <p>-singer</p>
+    <p>- singer</p>
   </div>
 
 </div>
