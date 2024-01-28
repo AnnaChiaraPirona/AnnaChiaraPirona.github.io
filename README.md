@@ -46,7 +46,17 @@ welcome to my website!
 
 
 ## it might seem that I'm like this at times...
+<div style="text-align: center;">
 
+  <h2>Centered Text</h2>
+
+  <p>## it might seem that I'm like this at times...</p>
+
+  <div style="margin: 0 auto; width: 50%;">
+    <img src="image.jpg" alt="Centered Image" style="width: 100%; height: auto;">
+  </div>
+
+</div>
 
 <img src="angry_trex.JPG" alt="Image 5" style="width: 200px; height: auto;">
 
