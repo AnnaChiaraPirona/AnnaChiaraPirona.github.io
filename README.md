@@ -1,7 +1,19 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-# heading
-## heading
-### heading
-#### heading
+
+# Anny Randy
+
+Welcome to my website! 
+
+## my basics :)
+
+- postodctoral researcher
+- surfer
+- singer
+- t-rex at times....
+
+## it might seem that I'm like this at times...
+
+![Image](image.jpg)
+![Example Image](path/to/your/image.jpg)
+
+## but I am actually protecting this :)
+
