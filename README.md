@@ -10,7 +10,7 @@ welcome to my website!
 
 
 - surfer
-<img src="surfer.jpg" alt="Image 2" style="width: 150px; height: auto;">
+<img src="surfer.jpg" alt="Image 2" style="width: 200px; height: auto;">
 
  
 - singer
@@ -22,13 +22,14 @@ welcome to my website!
 
 
 - hiker
-<img src="hiker.jpg" alt="Image 5" style="width: 150px; height: auto;">
+<img src="hiker.jpg" alt="Image 5" style="width: 250px; height: auto;">
 - t-rex at times....
 
 ## it might seem that I'm like this at times...
 
 
 ![Image 1](angry_trex.JPG)
+<img src="angry_trex.JPG" alt="Image 5" style="width: 200px; height: auto;">
 
 ## but I am actually protecting this :)
 
