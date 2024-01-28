@@ -6,8 +6,15 @@ welcome to my website!
 ## my basics :)
 
 - postodctoral researcher
+  ![postdoc](researcher.jpg)
 - surfer
+   ![surfing](surfer.jpg)
 - singer
+   ![singer](singer.jpg)
+- 80s lover
+   ![80s](80s_lover.jpg)
+- hiker
+  ![hiking](hiker.jpg)
 - t-rex at times....
 
 ## it might seem that I'm like this at times...
