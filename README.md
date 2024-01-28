@@ -28,7 +28,6 @@ welcome to my website!
 ## it might seem that I'm like this at times...
 
 
-![Image 1](angry_trex.JPG)
 <img src="angry_trex.JPG" alt="Image 5" style="width: 200px; height: auto;">
 
 ## but I am actually protecting this :)
