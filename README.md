@@ -5,21 +5,6 @@ welcome to my website!
 
 ## my basics :)
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; text-align: center;">
-
-  <div style="flex: 1;">
-    <img src="researcher.jpg" alt="Image 1" style="width: 150px; height: auto;">
-    <p>researcher</p>
-  </div>
-
-  <div style="flex: 1;">
-    <img src="surfer.jpg" alt="Image 2" style="width: 200px; height: auto;">
-    <p>surfer</p>
-  </div>
-
-</div>
-
-
 - postodctoral researcher
 <img src="researcher.jpg" alt="Image 1" style="width: 150px; height: auto;">
 
