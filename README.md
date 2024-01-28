@@ -1,6 +1,6 @@
 
 # Anny Randy
-<div style="background-color: #ffd700; height: 10px; margin-bottom: 20px;"></div>
+<div style="background-color: #ffd700; height: 100px; margin-bottom: 20px;"></div>
 welcome to my website!  
 
 ## my basics :)
