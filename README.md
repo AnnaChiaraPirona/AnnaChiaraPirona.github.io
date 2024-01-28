@@ -23,7 +23,7 @@ welcome to my website!
 
 - hiker
 <img src="hiker.jpg" alt="Image 5" style="width: 250px; height: auto;">
-- t-rex at times....
+
 
 ## it might seem that I'm like this at times...
 
