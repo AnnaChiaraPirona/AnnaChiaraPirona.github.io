@@ -18,7 +18,7 @@ welcome to my website!
   </div>
 
    <div style="flex: 1;">
-    <img src="singer.jpg" alt="Image 3" style="width: 200px; height: auto;">
+    <img src="singer.jpg" alt="Image 3" style="width: 150px; height: auto;">
     <p>- singer</p>
   </div>
 
