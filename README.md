@@ -6,17 +6,23 @@ welcome to my website!
 ## my basics :)
 
 - postodctoral researcher
- <img src="researcher.jpg" alt="Image 1" style="width: 150px; height: auto;">
+<img src="researcher.jpg" alt="Image 1" style="width: 150px; height: auto;">
 
 
 - surfer
-   ![surfing](surfer.jpg)
+<img src="surfer.jpg" alt="Image 2" style="width: 150px; height: auto;">
+
+ 
 - singer
-   ![singer](singer.jpg)
+ <img src="singer.jpg" alt="Image 3" style="width: 150px; height: auto;">
+
+
 - 80s lover
-   ![80s](80s_lover.jpg)
+<img src="80s_lover.jpg" alt="Image 4" style="width: 150px; height: auto;">
+
+
 - hiker
-  ![hiking](hiker.jpg)
+<img src="hiker.jpg" alt="Image 5" style="width: 150px; height: auto;">
 - t-rex at times....
 
 ## it might seem that I'm like this at times...
