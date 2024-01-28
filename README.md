@@ -33,12 +33,12 @@ welcome to my website!
   </div>
 
   <div style="flex: 1;">
-    <img src="hiker.jpg" alt="Image 5" style="width: auto; height: 100px;">
+    <img src="hiker.jpg" alt="Image 5" style="width: auto; height: 200px;">
     <p>- hiking</p>
   </div>
 
    <div style="flex: 1;">
-    <img src="nonna_roll.jpg" alt="Image 5" style="width: auto; height: 100px;">
+    <img src="nonna_roll.jpg" alt="Image 5" style="width: auto; height: 200px;">
     <p>- loving</p>
   </div>
 
