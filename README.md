@@ -8,17 +8,17 @@ welcome to my website!
 <div style="display: flex; flex-wrap: wrap; gap: 20px; text-align: center;">
 
   <div style="flex: 1;">
-    <img src="researcher.jpg" alt="Image 1" style="width: 150px; height: auto;">
+    <img src="researcher.jpg" alt="Image 1" style="width: auto; height: 200px;">
     <p>- researcher</p>
   </div>
 
   <div style="flex: 1;">
-    <img src="surfer.jpg" alt="Image 2" style="width: 250px; height: auto;">
+    <img src="surfer.jpg" alt="Image 2" style="width: auto; height: 200px;">
     <p>- surfer</p>
   </div>
 
    <div style="flex: 1;">
-    <img src="singer.jpg" alt="Image 3" style="width: 150px; height: auto;">
+    <img src="singer.jpg" alt="Image 3" style="width: auto; height: 200px;">
     <p>- singer</p>
   </div>
 
@@ -28,7 +28,7 @@ welcome to my website!
 <div style="display: flex; flex-wrap: wrap; gap: 20px; text-align: center;">
 
   <div style="flex: 1;">
-    <img src="80s_lover.jpg" alt="Image 4" style="width: 150px; height: auto;">
+    <img src="80s_lover.jpg" alt="Image 4" style="width: auto; height: 200px;">
     <p>- 80s</p>
   </div>
 
