@@ -17,6 +17,11 @@ welcome to my website!
     <p>-surfer</p>
   </div>
 
+   <div style="flex: 1;">
+    <img src="singer.jpg" alt="Image 3" style="width: 200px; height: auto;">
+    <p>-singer</p>
+  </div>
+
 </div>
 
 
