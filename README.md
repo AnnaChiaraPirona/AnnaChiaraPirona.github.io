@@ -12,8 +12,8 @@ Welcome to my website!
 
 ## it might seem that I'm like this at times...
 
-![Image] (angry_trex.JPG)
-![t-rex] (https://github.com/AnnaChiaraPirona/annachiarapirona.github.io/blob/main/angry_trex.JPG)https://github.com/AnnaChiaraPirona/annachiarapirona.github.io/blob/main/angry_trex.JPG)
+
+![Image 1](angry_trex.jpg)
 
 ## but I am actually protecting this :)
 
