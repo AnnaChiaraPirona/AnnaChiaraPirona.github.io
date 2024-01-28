@@ -39,7 +39,7 @@ welcome to my website!
 
    <div style="flex: 1;">
     <img src="nonna_roll.jpg" alt="Image 5" style="width: 300px; height: auto;">
-    <p>- hiking</p>
+    <p>- loving</p>
   </div>
 
 </div>
